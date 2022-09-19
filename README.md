@@ -22,7 +22,23 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 
 Contributions are welcome!
 
-
 Please review the contribution guidelines first. Thanks to all contributors; you rock!
+
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+
+- [Awesome Axiom](#awesome-axiom)
+  - [Table of Contents](#table-of-contents)
+  - [Axiom Platform](#axiom-platform)
+    - [Axiom Cloud](#axiom-cloud)
+    - [Axiom Desktop Demo](#axiom-desktop-demo)
+    - [Axiom Self Host](#axiom-self-host)
+  - [Axiom Website](axiom-website)
+  - [Documentation](#documentation)
+    - [Installation](#installation)
+    - [Send Data](#send-data)
+    - [Query Data](#query-data)
+    - [Monitor](#monitor)
+  - [Libraries](#libraries)
+  - 
 
 
