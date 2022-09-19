@@ -38,7 +38,23 @@ Please review the contribution guidelines first. Thanks to all contributors; you
     - [Send Data](#send-data)
     - [Query Data](#query-data)
     - [Monitor](#monitor)
-  - [Libraries](#libraries)
-  - 
+  - [SDKs and Libraries](#sdks-and-libraries)
+  - [Axiom CLI](#axiom-cli)
+  - [Open Source Repos](#open-source-repos)
+  - [Guides, Books, Changelog, and Training](#guides-books-documentation-and-training)
+  - [Social](#social)
+
+
+---
+
+## Axiom Platform 
+
+- [Axiom Platform](https://www.axiom.co/enterprise) - Get the power to gain instant, actionable insights on all their data as efficiently as possible.
+
+
+### Axiom Cloud
+
+- [Axiom Cloud](https://www.axiom.co/) - Axiom unlocks observability at any scale, get unlimited users, services, hosts, and containers.Ingest with ease, store without limits, and query everything, all the time. 
+
 
 
