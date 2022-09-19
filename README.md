@@ -1,6 +1,6 @@
 # Awesome Axiom
 
-# <img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="200" alt="awesome axiom">
+# <img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">
 
 
 A curated list of awesome Axiom Platform, libraries, open source repos, guides, blogs, Documentation and other resources.
