@@ -26,23 +26,25 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
+
+
 - [Awesome Axiom](#awesome-axiom)
-  - [Table of Contents](#table-of-contents)
+- [<img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">](#)
+    - [Contributing:](#contributing)
+- [<img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">](#-1)
   - [Axiom Platform](#axiom-platform)
     - [Axiom Cloud](#axiom-cloud)
     - [Axiom Desktop Demo](#axiom-desktop-demo)
     - [Axiom Self Host](#axiom-self-host)
-  - [Axiom Website](axiom-website)
+    - [Self Host Lambda Queries](#self-host-lambda-queries)
+  - [Axiom Website](#axiom-website)
   - [Documentation](#documentation)
     - [Installation](#installation)
     - [Send Data](#send-data)
     - [Query Data](#query-data)
     - [Monitor](#monitor)
   - [SDKs and Libraries](#sdks-and-libraries)
-  - [Axiom CLI](#axiom-cli)
-  - [Open Source Repos](#open-source-repos)
-  - [Guides, Books, Changelog, and Training](#guides-books-documentation-and-training)
-  - [Social](#social)
+    - [Next-Axiom](#next-axiom)
 
 
 ---
@@ -57,4 +59,38 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 - [Axiom Cloud](https://www.axiom.co/) - Axiom unlocks observability at any scale, get unlimited users, services, hosts, and containers.Ingest with ease, store without limits, and query everything, all the time. 
 
 
+### Axiom Desktop Demo
+
+- The quickest way to try out Axiom for yourself is to run our [desktop demo](https://github.com/axiomhq/axiom-demo) which allows you to run an entire Axiom deployment, including data-shippers, right on your desktop via Docker. 
+
+### Axiom Self Host 
+
+- Deploy and run [Axiom directly in your clusters using the Helm Chart](https://www.axiom.co/docs/install/kubernetes). 
+
+
+### Self Host Lambda Queries
+
+- Set up and configure a lambda function to [run queries on your Self Host installs for lower cost and better performance](https://www.axiom.co/docs/install/run-queries-on-aws)
+
+
+## Axiom Website 
+
+
+## Documentation 
+
+### Installation 
+
+### Send Data
+
+### Query Data
+
+### Monitor 
+
+
+## SDKs and Libraries
+
+
+### Next-Axiom
+
+###
 
