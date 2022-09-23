@@ -27,17 +27,14 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
 
-
-- [Awesome Axiom](#awesome-axiom)
-- [<img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">](#)
-    - [Contributing:](#contributing)
-- [<img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">](#-1)
+<!-- - [Awesome Axiom](#awesome-axiom)
+  - [Table of Contents](#table-of-contents) -->
   - [Axiom Platform](#axiom-platform)
     - [Axiom Cloud](#axiom-cloud)
     - [Axiom Desktop Demo](#axiom-desktop-demo)
     - [Axiom Self Host](#axiom-self-host)
     - [Self Host Lambda Queries](#self-host-lambda-queries)
-  - [Axiom Website](#axiom-website)
+  - [Axiom Website](axiom-website)
   - [Documentation](#documentation)
     - [Installation](#installation)
     - [Send Data](#send-data)
@@ -45,6 +42,17 @@ Please review the contribution guidelines first. Thanks to all contributors; you
     - [Monitor](#monitor)
   - [SDKs and Libraries](#sdks-and-libraries)
     - [Next-Axiom](#next-axiom)
+    - [Go Client](#go-client)
+    - [NodeJS Client](#nodejs-client)
+    - [Python Client](#python-client)
+  - [Axiom CLI](#axiom-cli)
+  - [Integrations](#integrations)
+  - [Open Source Repos](#open-source-repos)
+  - [Guides, Books, Changelog, and Training](#guides-books-documentation-and-training)
+  - [Social](#social)
+  - [Contributing](#contributing)
+  - [Contact Info](#contact-info)
+  - [LICENSE](#license)
 
 
 ---
@@ -74,6 +82,8 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 
 ## Axiom Website 
+
+
 
 
 ## Documentation 
