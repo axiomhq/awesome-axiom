@@ -83,14 +83,23 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 ## Axiom Website 
 
-
-
+- [Observability, reimagined](https://www.axiom.co/) - View and explore the Axioms official website. 
 
 ## Documentation 
 
 ### Installation 
 
+- [Axiom Cloud](https://www.axiom.co/docs/install/cloud) - Axiom Cloud unlocks Unlimited users, services, hosts, and containers.
+- [Desktop Demo](https://www.axiom.co/docs/install/demo) - Run Axiom on your local machine. 
+- [Self-Host](https://www.axiom.co/docs/install/kubernetes) - Run and deploy Axiom on your servers and clusters.
+
 ### Send Data
+
+- [API](https://www.axiom.co/docs/send-data/ingest) - Ingest data into Axiom using API
+- [Elastic Beats](https://www.axiom.co/docs/send-data/elastic-beats) - Send data to Axiom using Elastic Beats
+- [FluentD](https://www.axiom.co/docs/send-data/fluentd) - Collect logs from multiple sources and ship it instantly into Axiom
+- [Fluent Bit](https://www.axiom.co/docs/send-data/fluent-bit) - Ship metrics and logs into Axiom from different sources
+- [Logstash](https://www.axiom.co/docs/send-data/logstash) - Read and filter logstash data directly into Axiom
 
 ### Query Data
 
