@@ -51,6 +51,7 @@ Please review the contribution guidelines first. Thanks to all contributors; you
   - [Guides, Books, Changelog, and Training](#guides-books-documentation-and-training)
   - [Social](#social)
   - [Contributing](#contributing)
+    -[Contributing Documentation](#contributing-documentation)
   - [Contact Info](#contact-info)
   - [LICENSE](#license)
 
@@ -113,3 +114,9 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 ###
 
+## Contributing
+
+### Contributing Documentation
+
+[Axiom documentation](https://www.axiom.co/docs) sources are stored in the [axiom-co](https://github.com/axiomhq/axiom-co) repository. 
+The docs are written in the Markdown (.mdx) format and then transformed into HTML form. You can preview the changes using Vercel functionality. Once the pull request is approved and merged, the docs are published on the [website](https://www.axiom.co/docs).
