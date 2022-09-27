@@ -45,6 +45,7 @@ Please review the contribution guidelines first. Thanks to all contributors; you
     - [Go Client](#go-client)
     - [NodeJS Client](#nodejs-client)
     - [Python Client](#python-client)
+    - [Rust Client](#rust-client)
   - [Axiom CLI](#axiom-cli)
   - [Integrations](#integrations)
   - [Open Source Repos](#open-source-repos)
@@ -128,10 +129,41 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 - [Axiom API NodeJS bindings](https://github.com/axiomhq/axiom-node)
 
+### Python Client 
+
+- [Axiom API Python bindings](https://github.com/axiomhq/axiom-py)
+
+### Rust Client 
+
+- [Axiom Rust bindings](https://github.com/axiomhq/axiom-rs)
 
 
+## Axiom CLI 
 
-### Next-Axiom
+- [The power of Axiom on the command line](https://github.com/axiomhq/cli) - The Axiom command-line application is a fast and straightforward tool for interacting with Axiom.
 
-###
+## Integrations 
+- [Vercel](https://www.axiom.co/vercel) - Zero-Config Observability for Vercel with Axiom. 
+
+## Open Source Repos 
+
+- [Axiom CloudFront](https://github.com/axiomhq/axiom-cloudfront-lambda) - Send CloudFront logs to Axiom 
+- [Axiom Cloudwatch](https://github.com/axiomhq/axiom-cloudwatch-lambda) - Ingest CloudWatch Logs into Axiom.
+- [Tracing Axiom](https://github.com/axiomhq/tracing-axiom) - The tracing layer for shipping traces to Axiom
+- [Deno Client](https://github.com/axiomhq/deno-client) - Minimal deno library for sending events and logs to Axiom
+- [Axiom Helm Chart](https://github.com/axiomhq/axiom-helm-charts) - Run Axiom directly in your Cluster using the Helm Chart
+- [Variance](https://github.com/axiomhq/variance) - Go implementation Welford’s method for one-pass variance computation
+- [pkg](https://github.com/axiomhq/pkg) - Commonly used Go packages for Axiom projects.
+
+## Guides, Books, Changelog, and Training 
+
+## Social 
+
+## Contributing 
+
+## Contact Info 
+
+## License 
+
+
 
