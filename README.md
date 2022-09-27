@@ -103,10 +103,32 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 ### Query Data
 
+- [Streaming](https://www.axiom.co/docs/query-data/stream) - Process, analyze high volumes of high-velocity data from a variety of sources in real time.
+- [Dashboard](https://www.axiom.co/docs/query-data/dashboards) - Collect queries across multiple datasets to be visualized in one place.
+- [Virtual Fields](https://www.axiom.co/docs/query-data/virtual-fields) - Derive new values from your data in real time. 
+- [Visualization](https://www.axiom.co/docs/query-data/visualizations) - Run aggregations across your data to produce insights that are easy to understand and monitor.
+
+
 ### Monitor 
 
+- [Exploring your data](https://www.axiom.co/docs/monitor-data/explore)- Filter, manipulate, extend, and summarize your data whenever you want using APL. 
+- [Alerting](https://www.axiom.co/docs/monitor-data/alerts) - Setup Monitors and Notifiers to be alerted when errors or other conditions are met by events.
 
 ## SDKs and Libraries
+
+### Next-Axiom 
+
+- [Next-Axiom](https://github.com/axiomhq/next-axiom) - Send Web-Vitals from Vercel to Axiom.
+
+
+### Go Client
+- [Axiom API Go bindings](https://github.com/axiomhq/axiom-go)
+
+### NodeJS Client
+
+- [Axiom API NodeJS bindings](https://github.com/axiomhq/axiom-node)
+
+
 
 
 ### Next-Axiom
