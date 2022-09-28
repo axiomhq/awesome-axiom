@@ -48,10 +48,14 @@ Please review the contribution guidelines first. Thanks to all contributors; you
   - [Official Libraries](#official-libraries)
     - [SDKs and Libraries](#sdks-and-libraries)
       - [Next-Axiom](#next-axiom)
+      - [Prisma-Axiom](#prisma-axiom)
+      - [Tracing-Axiom](#tracing-axiom)
       - [Go-Client](#go-client)
       - [Nodejs-Client](#nodejs-client)
       - [Python Client](#python-client)
       - [Rust Client](#rust-client)
+      - [Axiom-Cloudfront-Lambda](#axiom-cloudfront-lambda)
+    - [Axiom-Cloudwatch-Lambda](#axiom-cloudwatch-lambda)
   - [Social](#social)
   - [Contributing](#contributing-1)
   - [Contact Info](#contact-info)
@@ -88,6 +92,16 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 #### Next-Axiom 
 - [Next-Axiom](https://github.com/axiomhq/next-axiom) - Send Web-Vitals from Vercel to Axiom.
 
+
+#### Prisma-Axiom 
+
+- [Axiom Prisma Integration](https://github.com/axiomhq/prisma-axiom) - Axiom observability middleware for Prisma. 
+
+#### Tracing-Axiom
+
+- [Axiom Tracing Integration](https://github.com/axiomhq/tracing-axiom)- The tracing layer for shipping traces to Axiom.
+
+
 #### Go-Client
 
 - [Axiom API Go bindings](https://github.com/axiomhq/axiom-go) - Axiom Go is a Go client library for accessing the Axiom API.
@@ -104,6 +118,18 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 #### Rust Client 
 
 - [Axiom Rust Library](https://github.com/axiomhq/axiom-rs) - The Rust SDK for Axiom — manage datasets, ingest and query data all from your Rust project.
+
+#### Axiom-Cloudfront-Lambda
+
+- [Axiom CloudFront integrations](https://github.com/axiomhq/axiom-cloudfront-lambda) - Send CloudFront logs to Axiom.
+
+### Axiom-Cloudwatch-Lambda 
+
+- [Axiom Cloudwatch integration](https://github.com/axiomhq/axiom-cloudwatch-lambda) - Ingest CloudWatch Logs into Axiom.
+
+
+
+
 
 
 
