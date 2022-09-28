@@ -22,7 +22,7 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 
 Contributions are welcome!
 
-Please review the contribution guidelines first. Thanks to all contributors; you rock!
+Please [review the contribution guidelines first](). Thanks to all contributors; you rock!
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
@@ -64,20 +64,10 @@ Please review the contribution guidelines first. Thanks to all contributors; you
   - [Contact Info](#contact-info)
   - [License](#license)
 
-
-- [UnOfficial Libraries](#unofficial-libraries)
-  - [SDKs and Libraries](#sdks-and-libraries)
-  - [Axiom Net](#axiom-net)
-  - [Axiom Appender](#axiom-appender)
-
   <!-- - [Axiom CLI](#axiom-cli)
   - [Integrations](#integrations)
   - [Open Source Repos](#open-source-repos)
   - [Guides, Books, Changelog, and Training](#guides-books-documentation-and-training) -->
-  - [Social](#social)
-  - [Contributing](#contributing)
-  - [Contact Info](#contact-info)
-  - [LICENSE](#license)
 
 
 ---
@@ -151,9 +141,10 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 ## Social 
 - [Twitter](https://twitter.com/AxiomFM)
 
-## Contributing 
 
 ## Contact Info
+
+- IF you have any issues, kindly contact us at []()
 
 ## License 
 
