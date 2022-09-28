@@ -29,12 +29,28 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 <!-- - [Awesome Axiom](#awesome-axiom)
   - [Table of Contents](#table-of-contents) -->
-  - [Axiom Platform](#axiom-platform)
+  <!-- - [Axiom Platform](#axiom-platform)
     - [Axiom Cloud](#axiom-cloud)
     - [Axiom Desktop Demo](#axiom-desktop-demo)
     - [Axiom Self Host](#axiom-self-host)
     - [Self Host Lambda Queries](#self-host-lambda-queries)
   - [Axiom Website](axiom-website)
+  - [Documentation](#documentation)
+    - [Installation](#installation)
+    - [Send Data](#send-data)
+    - [Query Data](#query-data)
+    - [Monitor](#monitor) -->
+
+- [Awesome Axiom](#awesome-axiom)
+- [<img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">](#)
+    - [Contributing:](#contributing)
+- [<img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">](#-1)
+  - [Axiom Platform](#axiom-platform)
+    - [Axiom Cloud](#axiom-cloud)
+    - [Axiom Desktop Demo](#axiom-desktop-demo)
+    - [Axiom Self Host](#axiom-self-host)
+    - [Self Host Lambda Queries](#self-host-lambda-queries)
+  - [Axiom Website](#axiom-website)
   - [Documentation](#documentation)
     - [Installation](#installation)
     - [Send Data](#send-data)
@@ -49,11 +65,11 @@ Please review the contribution guidelines first. Thanks to all contributors; you
   - [Axiom CLI](#axiom-cli)
   - [Integrations](#integrations)
   - [Open Source Repos](#open-source-repos)
-  - [Guides, Books, Changelog, and Training](#guides-books-documentation-and-training)
+  - [Guides, Books, Changelog, and Training](#guides-books-changelog-and-training)
   - [Social](#social)
-  - [Contributing](#contributing)
+  - [Contributing](#contributing-1)
   - [Contact Info](#contact-info)
-  - [LICENSE](#license)
+  - [License](#license)
 
 
 ---
