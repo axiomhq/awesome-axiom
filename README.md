@@ -41,10 +41,7 @@ Please review the contribution guidelines first. Thanks to all contributors; you
     - [Query Data](#query-data)
     - [Monitor](#monitor) -->
 
-- [Awesome Axiom](#awesome-axiom)
-- [<img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">](#)
-    - [Contributing:](#contributing)
-- [<img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">](#-1)
+
   - [Official Libraries](#official-libraries)
     - [SDKs and Libraries](#sdks-and-libraries)
       - [Next-Axiom](#next-axiom)
@@ -55,7 +52,13 @@ Please review the contribution guidelines first. Thanks to all contributors; you
       - [Python Client](#python-client)
       - [Rust Client](#rust-client)
       - [Axiom-Cloudfront-Lambda](#axiom-cloudfront-lambda)
-    - [Axiom-Cloudwatch-Lambda](#axiom-cloudwatch-lambda)
+      - [Axiom-Cloudwatch-Lambda](#axiom-cloudwatch-lambda)
+      - [Axiom Elements](#axiom-elements)
+      - [Homebrew-Tap](#homebrew-tap)
+  - [UnOfficial Libraries](#unofficial-libraries)
+    - [SDKs and Libraries](#sdks-and-libraries-1)
+      - [AxiomNet](#axiomnet)
+      - [Axiom Appender](#axiom-appender)
   - [Social](#social)
   - [Contributing](#contributing-1)
   - [Contact Info](#contact-info)
@@ -64,13 +67,8 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 - [UnOfficial Libraries](#unofficial-libraries)
   - [SDKs and Libraries](#sdks-and-libraries)
-    - [Next-Axiom](#next-axiom)
-    - [Go Client](#go-client)
-    - [NodeJS Client](#nodejs-client)
-    - [Python Client](#python-client)
-    - [Rust Client](#rust-client)
-
-
+  - [Axiom Net](#axiom-net)
+  - [Axiom Appender](#axiom-appender)
 
   <!-- - [Axiom CLI](#axiom-cli)
   - [Integrations](#integrations)
@@ -123,23 +121,39 @@ Please review the contribution guidelines first. Thanks to all contributors; you
 
 - [Axiom CloudFront integrations](https://github.com/axiomhq/axiom-cloudfront-lambda) - Send CloudFront logs to Axiom.
 
-### Axiom-Cloudwatch-Lambda 
+#### Axiom-Cloudwatch-Lambda 
 
 - [Axiom Cloudwatch integration](https://github.com/axiomhq/axiom-cloudwatch-lambda) - Ingest CloudWatch Logs into Axiom.
 
+#### Axiom Elements
+
+- [Axiom Elements](https://github.com/axiomhq/axiom-elements) - Axiom Elements is a set of React components that can display charts for your Axiom Datasets.
+
+#### Homebrew-Tap 
+
+- [Axiom Homebrew  formulas](https://github.com/axiomhq/homebrew-tap) - Collection of Homebrew formulas for Axiom, Inc. open source projects.
 
 
+## UnOfficial Libraries 
+
+### SDKs and Libraries 
+
+#### AxiomNet
+
+- [Axiom .Net Library](https://j-sauer.github.io/axiom-net/) - AxiomNet is a .Net library for accessing the Axiom API.
 
 
+#### Axiom Appender
 
-
+- [Axiom Java Appender](https://github.com/yHSJ/axiom-appender) - Custom Logback appender to send logs to Axiom using Java. 
 
 
 ## Social 
+- [Twitter](https://twitter.com/AxiomFM)
 
 ## Contributing 
 
-## Contact Info 
+## Contact Info
 
 ## License 
 
