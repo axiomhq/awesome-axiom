@@ -22,7 +22,7 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 
 Contributions are welcome!
 
-Please [review the contribution guidelines first](). Thanks to all contributors; you rock!
+Please [review the contribution guidelines first](https://github.com/axiomhq/awesome-axiom/blob/main/Contributing.md). Thanks to all contributors; you rock!
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
@@ -147,6 +147,8 @@ Please [review the contribution guidelines first](). Thanks to all contributors;
 - IF you have any issues, kindly contact us at []()
 
 ## License 
+
+- Check out our [License here](https://github.com/axiomhq/awesome-axiom/blob/main/LICENSE)
 
 
 
