@@ -144,7 +144,7 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
 
 ## Contact Info
 
-- IF you have any issues, kindly contact us at []()
+- IF you have any issues, kindly contact us at [support@axiom.co](mailto:support@axiom.co)
 
 ## License 
 
