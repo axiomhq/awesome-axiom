@@ -3,9 +3,9 @@
 # <img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">
 
 
-A curated list of awesome Axiom Platform, libraries, open source repos, guides, blogs, Documentation and other resources.
+A curated list of Awesome Axiom Platform, libraries, open source repos, guides, blogs, documentation, and other resources.
 
-We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for instant communication, [follow the link here to join](https://www.axiom.co/support).
+We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for instant communication, click [here](https://www.axiom.co/support) to join.
 
 ---
 
@@ -22,7 +22,7 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 
 Contributions are welcome!
 
-Please [review the contribution guidelines first](https://github.com/axiomhq/awesome-axiom/blob/main/Contributing.md). Thanks to all contributors; you rock!
+Please review [the contribution guidelines](https://github.com/axiomhq/awesome-axiom/blob/main/Contributing.md) first. Thanks to all contributors; you rock!
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
@@ -55,7 +55,7 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
       - [Axiom-Cloudwatch-Lambda](#axiom-cloudwatch-lambda)
       - [Axiom Elements](#axiom-elements)
       - [Homebrew-Tap](#homebrew-tap)
-  - [UnOfficial Libraries](#unofficial-libraries)
+  - [Unofficial Libraries](#unofficial-libraries)
     - [SDKs and Libraries](#sdks-and-libraries-1)
       - [AxiomNet](#axiomnet)
       - [Axiom Appender](#axiom-appender)
@@ -78,7 +78,7 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
 ### SDKs and Libraries 
 
 #### Next-Axiom 
-- [Next-Axiom](https://github.com/axiomhq/next-axiom) - Send Web-Vitals from Vercel to Axiom.
+- [Next-Axiom](https://github.com/axiomhq/next-axiom) - Send Web Vitals from Vercel to Axiom.
 
 
 #### Prisma-Axiom 
@@ -87,12 +87,12 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
 
 #### Tracing-Axiom
 
-- [Axiom Tracing Integration](https://github.com/axiomhq/tracing-axiom)- The tracing layer for shipping traces to Axiom.
+- [Axiom Tracing Integration](https://github.com/axiomhq/tracing-axiom) - The tracing layer for shipping traces to Axiom.
 
 
 #### Go-Client
 
-- [Axiom API Go bindings](https://github.com/axiomhq/axiom-go) - Axiom Go is a Go client library for accessing the Axiom API.
+- [Axiom API Go bindings](https://github.com/axiomhq/axiom-go) - The Go client library for accessing the Axiom API.
 
 #### Nodejs-Client 
 
@@ -105,7 +105,7 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
 
 #### Rust Client 
 
-- [Axiom Rust Library](https://github.com/axiomhq/axiom-rs) - The Rust SDK for Axiom — manage datasets, ingest and query data all from your Rust project.
+- [Axiom Rust Library](https://github.com/axiomhq/axiom-rs) - The Rust SDK for Axiom: Manage datasets, ingest and query all data from your Rust project.
 
 #### Axiom-Cloudfront-Lambda
 
@@ -117,20 +117,20 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
 
 #### Axiom Elements
 
-- [Axiom Elements](https://github.com/axiomhq/axiom-elements) - Axiom Elements is a set of React components that can display charts for your Axiom Datasets.
+- [Axiom Elements](https://github.com/axiomhq/axiom-elements) - Set of React components that can display charts for your Axiom Datasets.
 
 #### Homebrew-Tap 
 
-- [Axiom Homebrew  formulas](https://github.com/axiomhq/homebrew-tap) - Collection of Homebrew formulas for Axiom, Inc. open source projects.
+- [Axiom Homebrew formulas](https://github.com/axiomhq/homebrew-tap) - Collection of Homebrew formulas for Axiom, Inc. open source projects.
 
 
-## UnOfficial Libraries 
+## Unofficial Libraries 
 
 ### SDKs and Libraries 
 
 #### AxiomNet
 
-- [Axiom .Net Library](https://j-sauer.github.io/axiom-net/) - AxiomNet is a .Net library for accessing the Axiom API.
+- [Axiom .Net Library](https://j-sauer.github.io/axiom-net/) - .Net library for accessing the Axiom API.
 
 
 #### Axiom Appender
@@ -148,7 +148,7 @@ Please [review the contribution guidelines first](https://github.com/axiomhq/awe
 
 ## License 
 
-- Check out our [License here](https://github.com/axiomhq/awesome-axiom/blob/main/LICENSE)
+- Check out our License [here](https://github.com/axiomhq/awesome-axiom/blob/main/LICENSE)
 
 
 
