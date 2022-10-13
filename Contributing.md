@@ -12,6 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - Try to make your pull request and title as descriptive as possible.
 - New categories or improvements to the existing categorization are welcome.
+- To contribute to the documentation, follow [these instructions](https://github.com/axiomhq/awesome-axiom/blob/main/contributing-to-docs.md).
 
 
 Thank you for contributing to Awesome-Axiom!
