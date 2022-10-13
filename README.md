@@ -144,7 +144,7 @@ Please review [the contribution guidelines](https://github.com/axiomhq/awesome-a
 
 ## Contact Info
 
-- IF you have any issues, kindly contact us at [support@axiom.co](mailto:support@axiom.co)
+- If you have any issues, kindly contact us at [support@axiom.co](mailto:support@axiom.co)
 
 ## License 
 
