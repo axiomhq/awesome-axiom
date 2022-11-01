@@ -1,7 +1,5 @@
-# Awesome Axiom
-
-# <img src="https://user-images.githubusercontent.com/24816990/191011807-77fe34f2-9233-42a4-b94b-091a940345fd.png" width="100" alt="awesome axiom">
-
+![awesome-axiom: A curated list of Awesome Axiom implementations and projects](.github/images/banner-dark.svg#gh-dark-mode-only)
+![awesome-axiom: A curated list of Awesome Axiom implementations and projects](.github/images/banner-light.svg#gh-light-mode-only)
 
 A curated list of Awesome Axiom Platform, libraries, open source repos, guides, blogs, documentation, and other resources.
 
