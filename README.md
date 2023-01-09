@@ -12,7 +12,6 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/AxiomFM">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="">Stickers & t-shirts</a>
 </p>
 
 
