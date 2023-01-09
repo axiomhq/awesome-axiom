@@ -9,8 +9,8 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 
 <p align="center">
 	<a href="https://www.axiom.co/docs/get-help/faq">What is Axiom?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/axiomhq/awesome-axiom/blob/main/Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/axiomhq/awesome-axiom#contributing">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/AxiomFM">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
 
