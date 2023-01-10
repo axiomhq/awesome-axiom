@@ -9,10 +9,9 @@ We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for i
 
 <p align="center">
 	<a href="https://www.axiom.co/docs/get-help/faq">What is Axiom?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/axiomhq/awesome-axiom/blob/main/Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/axiomhq/awesome-axiom#contributing">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/AxiomFM">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="">Stickers & t-shirts</a>
 </p>
 
 
@@ -51,7 +50,6 @@ Please review [the contribution guidelines](https://github.com/axiomhq/awesome-a
       - [Rust Client](#rust-client)
       - [Axiom-Cloudfront-Lambda](#axiom-cloudfront-lambda)
       - [Axiom-Cloudwatch-Lambda](#axiom-cloudwatch-lambda)
-      - [Axiom Elements](#axiom-elements)
       - [Homebrew-Tap](#homebrew-tap)
   - [Unofficial Libraries](#unofficial-libraries)
     - [SDKs and Libraries](#sdks-and-libraries-1)
@@ -112,10 +110,6 @@ Please review [the contribution guidelines](https://github.com/axiomhq/awesome-a
 #### Axiom-Cloudwatch-Lambda 
 
 - [Axiom Cloudwatch integration](https://github.com/axiomhq/axiom-cloudwatch-lambda) - Ingest CloudWatch Logs into Axiom.
-
-#### Axiom Elements
-
-- [Axiom Elements](https://github.com/axiomhq/axiom-elements) - Set of React components that can display charts for your Axiom Datasets.
 
 #### Homebrew-Tap 
 
