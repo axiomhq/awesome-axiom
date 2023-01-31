@@ -3,7 +3,7 @@
 
 A curated list of Awesome Axiom Platform, libraries, open source repos, guides, blogs, documentation, and other resources.
 
-We use the [Axiom](https://axiomfm.slack.com/ssb/redirect) community slack for instant communication, click [here](https://www.axiom.co/support) to join.
+We use Discord for our Axiom community, click [here](https://www.axiom.co/discord) to join.
 
 ---
 
