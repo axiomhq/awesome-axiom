@@ -45,7 +45,7 @@ Please review [the contribution guidelines](https://github.com/axiomhq/awesome-a
       - [Prisma-Axiom](#prisma-axiom)
       - [Tracing-Axiom](#tracing-axiom)
       - [Go-Client](#go-client)
-      - [Nodejs-Client](#nodejs-client)
+      - [JS-Client](#js-client)
       - [Python Client](#python-client)
       - [Rust Client](#rust-client)
       - [Axiom-Cloudfront-Lambda](#axiom-cloudfront-lambda)
@@ -90,9 +90,9 @@ Please review [the contribution guidelines](https://github.com/axiomhq/awesome-a
 
 - [Axiom API Go bindings](https://github.com/axiomhq/axiom-go) - The Go client library for accessing the Axiom API.
 
-#### Nodejs-Client 
+#### Javascript Client 
 
-- [Axiom API NodeJS bindings](https://github.com/axiomhq/axiom-node) - The Node SDK for Axiom.
+- [Axiom API JS bindings](https://github.com/axiomhq/axiom-js) - The Javascript SDK for Axiom.
 
 
 #### Python Client 
